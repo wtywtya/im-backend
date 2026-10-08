@@ -1,0 +1,8 @@
+# Go build cache and generated binaries
+.gocache/
+*.exe
+
+# Local configuration containing secrets
+.env
+.env.*
+!.env.example
